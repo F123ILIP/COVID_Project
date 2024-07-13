@@ -1,2 +1,4 @@
 # COVID_Project
-Analysis and machine learning prediction of deaths using machine learning predictions - raport
+Analiza i predykcje modelów uczenia maszynowego liczby śmierci covidowych - raport
+
+https://colab.research.google.com/drive/1VEfDf9X8FJF9YAahECp6XNcAcrn9QTD9
